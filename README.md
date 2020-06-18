@@ -4,7 +4,7 @@ Controller Service Provider for Silex
 ## Requirements
 silex 1.x
 
-##Installation
+## Installation
 The best way to install ControllerServiceProvider is to use a [Composer](https://getcomposer.org/download):
 
     php composer.phar require junker/controller-service-provider
