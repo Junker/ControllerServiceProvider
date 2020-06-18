@@ -2,7 +2,7 @@
 Controller Service Provider for Silex
 
 ## Requirements
-silex 1.x
+silex 2.x
 
 ## Installation
 The best way to install ControllerServiceProvider is to use a [Composer](https://getcomposer.org/download):
